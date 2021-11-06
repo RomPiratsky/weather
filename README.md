@@ -1,24 +1,3 @@
-# README
+Из всех рекомендуемых гемов частично смог разобраться в только RSpec и VCR, но не слишком успешно их использовал
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Собрал образ в Docker а также готов docker-compose
